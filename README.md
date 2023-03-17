@@ -7,8 +7,7 @@
 
 - 👩🏻‍💻 I'm currently studying at [KMITL](https://kmitl.ac.th/)
 - 💻 Major in [Computer Engineering](https://ce.kmitl.ac.th/)
-- 📫 Contact me: **wrppsp2001@gmail.com**
-                  **65015143@kmitl.ac.th**
+- 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
