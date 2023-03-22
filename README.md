@@ -14,7 +14,7 @@
 <div align="center">
     
   <a href="">[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31j6tiwzptnmrane2ydhufyy3g6i)</a>
-    
+  <a href="">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j6tiwzptnmrane2ydhufyy3g6i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31j6tiwzptnmrane2ydhufyy3g6i&redirect=true)</a>
 </div>
 <br/>
 
