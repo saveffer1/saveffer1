@@ -10,14 +10,8 @@
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
-![Spotify Song](https://spotify-readme-six-omega.vercel.app/api)
-
 <a href="#">
-  <img src="https://spotify-github-saveffer.vercel.app/api?theme=dark&rainbow=true" alt="Spotify Song">
-</a>
-
-<a href="#">
-  <img src="https://itstommi.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
+  <img src="https://spotify-readme-six-omega.vercel.app/api?theme=dark&rainbow=true" alt="Spotify Song">
 </a>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
