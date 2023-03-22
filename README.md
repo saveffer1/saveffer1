@@ -15,7 +15,7 @@
 </a>
 
 <a href="#">
-  <img src="https://spotify-github-readme.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="http://spotify-github-saveffer.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 
 
