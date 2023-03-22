@@ -14,13 +14,10 @@
   <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 
-<br/>
-<div align="center">
-  <a href="#">
-  <img src="https://spotify-github-readme-one.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-  </a>
-</div>
-<br/>
+<a href="#">
+  <img src="https://spotify-github-readme.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
