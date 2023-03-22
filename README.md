@@ -11,6 +11,7 @@
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j6tiwzptnmrane2ydhufyy3g6i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31j6tiwzptnmrane2ydhufyy3g6i&redirect=true)
 
 <br/>
 <div align="center">
