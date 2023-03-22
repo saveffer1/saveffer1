@@ -10,13 +10,7 @@
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
-<br/>
-<div align="center">
-    
-  <a href="">[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31j6tiwzptnmrane2ydhufyy3g6i)</a>
-  
-</div>
-<br/>
+
 
 <br/>
 <div align="center">
