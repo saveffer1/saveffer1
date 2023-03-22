@@ -11,7 +11,7 @@
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
-<a href="#" align="center">
+<a href="#">
       <img src="https://spotify-readme-six-omega.vercel.app/api?theme=dark&rainbow=true" alt="My Spotify Song">
 </a>
 
