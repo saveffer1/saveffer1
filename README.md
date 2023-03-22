@@ -13,7 +13,7 @@
 ![Spotify Song](https://spotify-readme-six-omega.vercel.app/api)
 
 <a href="#">
-  <img src="http://spotify-github-saveffer.vercel.app/api?theme=dark&rainbow=true" alt="Spotify Song">
+  <img src="https://spotify-github-saveffer.vercel.app/api?theme=dark&rainbow=true" alt="Spotify Song">
 </a>
 
 <a href="#">
