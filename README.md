@@ -12,9 +12,9 @@
 
 <br/>
 <div align="center">
-    
-  <a href="">![Spotify Song](https://spotify-github-readme-one.vercel.app/api)</a>
-  
+  <a href="#">
+  <img src="https://spotify-github-readme-one.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  </a>
 </div>
 <br/>
 
