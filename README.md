@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
     
-  <a href="">![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)</a>
+  <a href="">[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)</a>
     
 </div>
 <br/>
