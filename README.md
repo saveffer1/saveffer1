@@ -12,7 +12,9 @@
 - 
 <div style="display:grid;align-items:center;justify-content:center">
     <h3 align="left">Now Playing 🎧:</h3>
-    [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31j6tiwzptnmrane2ydhufyy3g6i)
+    <p align="center">
+        <a href="https://github-readme-remake.vercel.app/api/spotify"><img src="https://open.spotify.com/user/31j6tiwzptnmrane2ydhufyy3g6i" alt="spotify" ></a>
+    </p>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -30,7 +32,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <p align="center"> 
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=saveffer1&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
