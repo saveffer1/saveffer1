@@ -1,6 +1,7 @@
 <p align="left"> 
     <img src="https://img.shields.io/github/stars/saveffer1" alt="saveffer1" />
     <img src="https://img.shields.io/github/followers/saveffer1" alt="saveffer1" />
+    <img src="https://komarev.com/ghpvc/?username=saveffer1" alt="saveffer1" />
 </p>
 
 ### Welcome to my github
