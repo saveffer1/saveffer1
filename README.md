@@ -10,6 +10,10 @@
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tthn0&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+</div>
+
 <br/>
 <div align="center">
   <a href="#">
