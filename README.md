@@ -9,13 +9,9 @@
 - 💻 Major in [Computer Engineering](https://ce.kmitl.ac.th/)
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
-- 
-<div style="display:grid;align-items:center;justify-content:center">
-    <h3 align="left">Now Playing 🎧:</h3>
-    <p align="center">
-        <a href="https://github-readme-remake.vercel.app/api/spotify"><img src="https://open.spotify.com/user/31j6tiwzptnmrane2ydhufyy3g6i" alt="spotify" ></a>
-    </p>
-</div>
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
