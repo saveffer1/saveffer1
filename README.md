@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="#">
-      <img src="https://spotify-readme-six-omega.vercel.app/api?theme=dark&rainbow=true?scan=true" alt="Spotify Song">
+      <img src="https://spotify-readme-six-omega.vercel.app/api?theme=dark&rainbow=true" alt="My Spotify Song">
     </a>
 </div>
 
