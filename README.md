@@ -10,6 +10,8 @@
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
+![Spotify Song](https://spotify-github-saveffer.vercel.app/api)
+
 <a href="#">
   <img src="http://spotify-github-saveffer.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
