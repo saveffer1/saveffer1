@@ -12,8 +12,9 @@
 
 <br/>
 <div align="center">
+    
   <a href="">![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)</a>
-    <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+    
 </div>
 <br/>
 
