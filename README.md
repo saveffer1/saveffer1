@@ -11,9 +11,12 @@
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 - 
 <div style="display:grid;align-items:center;justify-content:center">
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31j6tiwzptnmrane2ydhufyy3g6i)
+    <p align="center">
+        ### Now Playing 🎧
+    </p>
+    <p align="center">
+        [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31j6tiwzptnmrane2ydhufyy3g6i)
+    </p>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
