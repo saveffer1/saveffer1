@@ -46,7 +46,7 @@
 
 <div>
     <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saveffer1&theme=dracula&column=7" alt="saveffer1" ></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saveffer1&no-frame=true&theme=dracula&column=7" alt="saveffer1" ></a> 
     </p>
 </div>
 
