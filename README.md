@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<div style="display:grid;align-items:center;justify-content:center">
+<!-- <div style="display:grid;align-items:center;justify-content:center">
   <p align="center"> 
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=saveffer1&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   </p>
@@ -42,7 +42,7 @@
     <p align="center"> 
     <img style="height:50%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saveffer1&layout=compact&theme=gotham&langs_count=8"/>
     </p>
-</div>
+</div> -->
 
 <div>
     <p align="center"> 
