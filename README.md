@@ -12,9 +12,8 @@
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
 <div align="center">
-    <a href="#">
-        [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-          <img src="https://spotify-readme-six-omega.vercel.app/api/spotify" alt="Current Spotify Song"     href="https://open.spotify.com/user/31ipj4hhzse7haduqujzjbfybb7m" />
+    <a href="https://open.spotify.com/user/31ipj4hhzse7haduqujzjbfybb7m">
+          <img src="https://spotify-readme-six-omega.vercel.app/api/spotify" alt="Current Spotify Song"/>
     </a>
 </div>
 
