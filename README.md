@@ -12,6 +12,16 @@
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
+---
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/wiraphat-prasomphong-847991188/">
+          <img src="https://github.com/saveffer1/saveffer1/blob/main/assets/animatedprofile.gif" alt="Profile"/>
+    </a>
+</div>
+
+---
+
 <div align="center">
     <a href="https://open.spotify.com/user/31ipj4hhzse7haduqujzjbfybb7m">
           <img src="https://spotifyrecentlyplayed.vercel.app/api/spotify" alt="Current Spotify Song"/>
