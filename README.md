@@ -1,7 +1,8 @@
 <p align="left"> 
-    <img src="https://img.shields.io/github/stars/saveffer1" alt="saveffer1" />
-    <img src="https://img.shields.io/github/followers/saveffer1" alt="saveffer1" />
-    <img src="https://komarev.com/ghpvc/?username=saveffer1" alt="saveffer1" />
+    <img src="https://img.shields.io/github/stars/saveffer1" alt="stars" />
+    <img src="https://img.shields.io/github/followers/saveffer1" alt="followers" />
+    <img src="https://komarev.com/ghpvc/?username=saveffer1" alt="profile views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=saveffer1" alt="visitors" />
 </p>
 
 ### Welcome to my github
