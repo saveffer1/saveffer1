@@ -11,13 +11,12 @@
 - 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
-<!--- <div align="center">
+<div align="center">
     <a href="#">
           <img src="https://spotify-readme-six-omega.vercel.app/api/index?theme=dark&rainbow=true" alt="Current Spotify Song">
     </a>
-</div> --->
-    
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -32,22 +31,10 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<!-- <div style="display:grid;align-items:center;justify-content:center">
-  <p align="center"> 
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=saveffer1&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  </p>
-</div>
+### Softwares:
 
-<div>
-    <p align="center"> 
-    <img style="height:50%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saveffer1&layout=compact&theme=gotham&langs_count=8"/>
-    </p>
-</div> -->
-
-<div>
-    <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saveffer1&no-frame=true&theme=dracula&column=7" alt="saveffer1" ></a> 
-    </p>
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
