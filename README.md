@@ -22,15 +22,6 @@
 
 ---
 
-<h3 align="left">Current playing song:</h3>
-<div align="center">
-    <a href="https://open.spotify.com/user/31ipj4hhzse7haduqujzjbfybb7m">
-          <img src="https://spotify-readme-three-zeta.vercel.app/api/spotify" alt="Current Spotify Song"/>
-    </a>
-</div>
-
----
-
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
