@@ -16,9 +16,9 @@
 
 ### Welcome to my github
 
-- 👩🏻‍💻 I'm currently studying at [KMITL](https://kmitl.ac.th/)
+- 👩🏻‍💻 Bachelor's degree from [KMITL](https://kmitl.ac.th/)
 - 💻 Major in [Computer Engineering](https://ce.kmitl.ac.th/)
-- 📫 Contact me: **wrppsp2001@gmail.com** or **65015143@kmitl.ac.th**
+- 📫 Contact me: **wrppsp2001@gmail.com**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
 ---
