@@ -18,7 +18,7 @@
 
 - 👩🏻‍💻 Bachelor's degree from [KMITL](https://kmitl.ac.th/)
 - 💻 Major in [Computer Engineering](https://ce.kmitl.ac.th/)
-- 📫 Contact me: **wrppsp2001@gmail.com**
+- 📫 Contact me: **wiraphat.prasomphong@gmail.com**
 - 📱 Linkedin: [Click](https://www.linkedin.com/in/wiraphat-prasomphong-847991188)
 
 ---
